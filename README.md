@@ -1,6 +1,6 @@
 # Tweeze
 
-Submitted as capstone project
+Submitted as capstone project of Bangkit Academy 2023
 
 # How to follow our steps:
 1. Create the flow of the application.
